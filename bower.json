@@ -1,9 +1,9 @@
 {
   "name": "ng-table",
   "description": "Simple table with sorting and filtering on AngularJS http://ng-table.com/.",
-  "version": "1.1.9",
+  "version": "4.0.2",
   "homepage": "https://github.com/hermeslm/ng-table",
-  "license": "MIT",
+  "license": "BSD",
   "private": false,
   "main": [
     "./bundles/ng-tables.js",
