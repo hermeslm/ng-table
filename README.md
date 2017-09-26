@@ -5,6 +5,8 @@ Table + AngularJS
 
 Code licensed under New BSD License.
 
+This is a fork of [ng-tables](http://ng-table.com/) project, I just added bower install dependencies and build. 
+
 This directive enhances your HTML tables. It support sorting, filtering and pagination.
 Header row with titles and filters automatic generated.
 
